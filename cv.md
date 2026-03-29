@@ -24,3 +24,16 @@ I am responsible, quick learner, and passionate about technology.
 - I can read technical documentation and understand most of it. 
 - I practice English by watching videos, reading articles, and communicating online.
 ---
+
+### CV Project
+- Created a personal CV using Markdown
+- Practiced version control with Git and GitHub
+- Structured and formatted content according to requirements
+- Link: https://islombek94.github.io/rsschool-cv/cv
+---
+## Skills
+- Programming Languages: JavaScript
+- Tools: Git, GitHub, VS Code
+---
+## Education
+Andijan automobile engineering university
