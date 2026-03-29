@@ -21,3 +21,6 @@ I am responsible, quick learner, and passionate about technology.
 ---
 ## English Level
 - Level: Intermediate
+- I can read technical documentation and understand most of it. 
+- I practice English by watching videos, reading articles, and communicating online.
+---
