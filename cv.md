@@ -36,4 +36,4 @@ I am responsible, quick learner, and passionate about technology.
 - Tools: Git, GitHub, VS Code
 ---
 ## Education
-Andijan automobile engineering university
+- Andijan automobile engineering university
